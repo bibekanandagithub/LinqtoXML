@@ -1,0 +1,11 @@
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\bin\Debug\test.xml
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\bin\Debug\LinqtoXML.exe.config
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\bin\Debug\LinqtoXML.exe
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\bin\Debug\LinqtoXML.pdb
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.csprojResolveAssemblyReference.cache
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.Form1.resources
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.Properties.Resources.resources
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.csproj.GenerateResource.Cache
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.exe
+c:\users\hqqaautomation\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\obj\Debug\LinqtoXML.pdb
+C:\Users\HQQAAUTOMATION\documents\visual studio 2017\Projects\LinqtoXML\LinqtoXML\bin\Debug\Distribution.xml

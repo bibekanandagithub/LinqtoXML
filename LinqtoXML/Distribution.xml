@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <general>
+    <CreateTask>Task1</CreateTask>
+    <Enviornment>DVT</Enviornment>
+    <Username>username</Username>
+    <Password>password</Password>
+    <DistributationWaitTime>3</DistributationWaitTime>
+  </general>
+  <Hosts>
+    <Host Shortname="DESKTOP-DQ71QCG">
+      <ip>192.168.1.111</ip>
+      <TestFolders>
+        <TestFolder source="TestingClosingInsight" > Cip Portal</TestFolder>
+        <TestFolder source="TestingClosingInsight2" > Cip Porta2</TestFolder>
+        <TestFolder source="TestingClosingInsight2" > Cip Porta3</TestFolder>
+   
+      </TestFolders>
+      <UserName>HQ\Qaautomation</UserName>
+      <Password>Passw0rd!</Password>
+
+      <Tasks>
+        <Task>
+          <Name>Dev-Test</Name>
+          <ConfigFile>abc.xml</ConfigFile>
+          <TestFolder>TestLUI</TestFolder>
+          <Run>Yes</Run>
+        </Task>
+      </Tasks>
+    </Host>
+  
+ <Host Shortname="DESKTOP-DQ71QJR">
+      <ip></ip>
+      <TestFolders>
+        <TestFolder source="TestingClosingInsight" > Cip Porta7</TestFolder>
+        <TestFolder source="TestingClosingInsight" > Cip Porta8</TestFolder>
+        <TestFolder source="TestingClosingInsight" > Cip Porta9</TestFolder>
+   
+      </TestFolders>
+      <UserName>HQ\Qaautomation</UserName>
+      <Password>Passw0rd!</Password>
+
+      <Tasks>
+        <Task>
+          <Name>Dev-Test</Name>
+          <ConfigFile>abc.xml</ConfigFile>
+          <TestFolder>TestLUI</TestFolder>
+          <Run>Yes</Run>
+        </Task>
+      
+          <Task>
+          <Name>Dev-Test</Name>
+          <ConfigFile>def.xml</ConfigFile>
+          <TestFolder>TestLUI</TestFolder>
+          <Run>Yes</Run>
+        </Task>
+      
+      </Tasks>
+    </Host>
+  </Hosts>
+</configuration>
